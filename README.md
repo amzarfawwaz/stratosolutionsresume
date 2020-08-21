@@ -1,0 +1,2 @@
+# stratosolutionsresume
+database hr
